@@ -7,6 +7,6 @@ I really like Python and Web Development (I’m currently learning Astro Web Fra
 
 📫**How To Reach Me**
 
-You can email me to: <a href= "mailto:panzieri.ale@gmail.com">*panzieri.ale@gmail.com*</a>\
+You can email me to: [*panzieri.ale@gmail.com*](mailto:panzieri.ale@gmail.com)\
 Call or message me on: *(+39) 391-186-8961*\
 Or reach me on my *[Linkedin](https://www.linkedin.com/in/alessandropanzieri/)* profile
