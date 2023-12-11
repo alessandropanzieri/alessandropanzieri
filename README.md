@@ -2,8 +2,8 @@
 
 🧑‍💻**Who Am I?**
 
-I'm a developer from Rome, Italy.\
-I really like Python and Web Development (I’m currently learning Astro Web Framework)
+I'm a developer from Rome, Italy, always looking for a genius idea.
+I really like Python and Web Development (I’m currently learning Astro Web Framework).
 
 📫**How To Reach Me**
 
