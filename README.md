@@ -9,4 +9,4 @@ I really like Python and Web Development (I’m currently learning Astro Web Fra
 
 You can mail me to: [*panzieri.ale@gmail.com*](mailto:panzieri.ale@gmail.com)\
 Call/message me on: *(+39) 391-186-8961*\
-Or reach me through my [*LinkedIn*](https://www.linkedin.com/in/alessandropanzieri/) profile
+Or reach me through [*my LinkedIn profile*](https://www.linkedin.com/in/alessandropanzieri/)
