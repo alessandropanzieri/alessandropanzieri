@@ -1,4 +1,4 @@
-# Hi there, Alessandro here 👋
+# Hi there, Alex here 👋
 
 🧑‍💻 **Who Am I?**
 
