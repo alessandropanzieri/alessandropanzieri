@@ -1,6 +1,6 @@
 # Hi there, Alessandro here 👋
 
-Who Am I?
+**Who Am I?**
 
 I'm a developer from Rome, Italy.
 
