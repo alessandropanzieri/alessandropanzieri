@@ -1,11 +1,8 @@
 # Hi there, Alessandro here 👋
 
-**Who Am I?**
+🧑‍💻**Who Am I?**
 
 I'm a developer from Rome, Italy.
+I really like Python and Web Development (I’m currently learning Astro Web Framework)
 
-
-
-
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+📫**How to reach me**
