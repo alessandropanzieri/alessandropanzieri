@@ -2,10 +2,10 @@
 
 🧑‍💻**Who Am I?**
 
-I'm a developer from Rome, Italy.
+I'm a developer from Rome, Italy.\
 I really like Python and Web Development (I’m currently learning Astro Web Framework)
 
 📫**How To Reach Me**
 
-You can email me to: *panzieri.ale@gmail.com*
+You can email me to: *panzieri.ale@gmail.com*\
 Or call/message me on: *(+39) 391-186-8961*
