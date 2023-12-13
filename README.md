@@ -1,4 +1,4 @@
-# Hi there, Alex here 👋
+# Hi there! Alex here 👋
 
 🧑‍💻 **Who Am I?**
 
